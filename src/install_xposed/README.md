@@ -4,13 +4,11 @@ TODO：
 
 * 【已解决】Mac中夜神安卓模拟器中安装Xposed框架
 * 【记录】给二手已root小米4设置Charles代理和安装Charles证书和启用Xposed
-* 【已解决】Mac中夜神模拟器中安装Xposed模块：JustTrustMe
 * 【已解决】用WrBug的DumpDex从app中hook导出dex文件
 * 【未解决】小米4中尝试安装最新3.1.5的Xposed Installer去解决2.6版本提示的不兼容的问题
 * 【已解决】mac中试用FDex2去hook导出安卓app的dex等文件
 * 【已解决】Android 4.4.4的小米4Xposed Installer出错：Xposed目前不兼容Android SDK版本19或您的处理器架构armeabi-v7a
 * 【已解决】Mac中夜神模拟器中安装Xposed框架
-* 【已解决】Mac中夜神模拟器中安装Xposed模块：JustTrustMe
 * 【已解决】价格便宜但支持root的Android手机
 * 【已解决】如何确定此二手小米4是否的确已经root
 * 【记录】二手已root的小米4安卓手机照片和信息
@@ -18,6 +16,8 @@ TODO：
 * 【已解决】小米4中重新安装Xposed Installer和激活Xposed框架
 
 ------
+
+## 旧版Android安装Xposed
 
 * 如何安装
   * 一般是通过`Xposed Installer`=`Xposed安装器`来安装`Xposed框架`，安装到安卓系统中
@@ -43,6 +43,7 @@ TODO：
               * 注：更高的`3.x`版本，比如`3.5.1`，不支持`Android 4.4`，只支持`Android 5`
                 * 详见
                   * 【已解决】Mac中夜神安卓模拟器中安装Xposed框架
+                    * [安装XPosed框架 · 好用的安卓模拟器：夜神Nox (crifan.org)](https://book.crifan.org/books/good_android_emulator_nox/website/usage/mac/install_xposed.html)
                   * 【已解决】Mac中夜神模拟器中安装Xposed模块：JustTrustMe
   * 也可以用`安卓真机`
     * 但前提是：安卓手机要有root权限

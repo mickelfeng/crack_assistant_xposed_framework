@@ -1,11 +1,10 @@
-# 太极Magisk
+# 太极
 
 * 太极·虚拟框架
-  * 一句话简介：免解锁,免Root,就能使用Xposed框架
-    * 一个可以免 Root 运行的类 Xposed 框架
+  * 一句话简介：免解锁,免Root,就能使用`Xposed`框架
+    * 一个可以免`Root`运行的类`Xposed`框架
   * 资料
     * 官网
-      * https://www.taichi-app.com/
       * https://taichi.cool/zh/
     * 文档
       * 介绍 | 太极

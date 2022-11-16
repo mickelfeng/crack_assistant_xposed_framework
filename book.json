@@ -1,6 +1,6 @@
 {
   "title": "强大的安卓破解辅助工具：XPosed框架",
-  "description": "介绍用于安卓破解的辅助工具：Xposed框架的基本概念和具体用法以及相关心得。",
+  "description": "介绍用于安卓破解的辅助工具：Xposed框架；先是Xposed框架简介，包括类XPosed框架的VirtualXposed、太极；以及具体如何安装Xposed和EdXposed；如何具体使用XPosed；以及常见的XPosed的插件模块；和如何开发XPosed插件；最后整理心得；",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
@@ -21,10 +21,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/crack_assistant_xposed_framework/website/"
+      "prefix": "https://book.crifan.org/books/crack_assistant_xposed_framework/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/crack_assistant_xposed_framework/pdf/crack_assistant_xposed_framework.pdf",
+      "url": "https://book.crifan.org/books/crack_assistant_xposed_framework/pdf/crack_assistant_xposed_framework.pdf",
       "icon": "fa-file-pdf-o",
       "label": "下载PDF"
     },
@@ -80,16 +80,13 @@
       ]
     },
     "tbfed-pagefooter": {
-      "copyright": "crifan.com，使用<a href='https://creativecommons.org/licenses/by/4.0/deed.zh'>署名4.0国际(CC BY 4.0)协议</a>发布",
+      "copyright": "crifan.org，使用<a href='https://creativecommons.org/licenses/by/4.0/deed.zh'>署名4.0国际(CC BY 4.0)协议</a>发布",
       "modify_label": "最后更新：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
-    "ga": {
-      "token": "UA-28297199-1"
-    },
     "donate": {
-      "wechat": "https://www.crifan.com/files/res/crifan_com/crifan_wechat_pay.jpg",
-      "alipay": "https://www.crifan.com/files/res/crifan_com/crifan_alipay_pay.jpg",
+      "wechat": "https://www.crifan.org/files/res/crifan_com/crifan_wechat_pay.jpg",
+      "alipay": "https://www.crifan.org/files/res/crifan_com/crifan_alipay_pay.jpg",
       "title": "",
       "button": "打赏",
       "alipayText": "支付宝打赏给Crifan",
@@ -98,16 +95,16 @@
   },
   "author": "Crifan Li <admin@crifan.com>",
   "language": "zh-hans",
-  "gitbook": "3.2.3",
   "root": "./src",
   "links": {
     "sidebar": {
-      "主页": "http://www.crifan.com"
+      "主页": "http://www.crifan.org"
     }
   },
   "plugins": [
     "theme-comscore",
     "anchors",
+    "expandable-menu",
     "-lunr",
     "-search",
     "search-plus",
@@ -116,12 +113,11 @@
     "prism",
     "prism-themes",
     "github-buttons",
-    "splitter",
+    "-splitter",
+    "splitter-nosessionbutcookie",
     "-sharing",
     "sharing-plus",
     "tbfed-pagefooter",
-    "expandable-chapters-small",
-    "ga",
     "donate",
     "sitemap-general",
     "copy-code-button",

@@ -1,6 +1,6 @@
 {
   "title": "强大的安卓破解辅助工具：XPosed框架",
-  "description": "介绍用于安卓破解的辅助工具：Xposed框架的基本概念和具体用法以及相关心得。",
+  "description": "介绍用于安卓破解的辅助工具：Xposed框架；先是Xposed框架简介，包括类XPosed框架的VirtualXposed、太极；以及具体如何安装Xposed和EdXposed；如何具体使用XPosed；以及常见的XPosed的插件模块；和如何开发XPosed插件；最后整理心得；",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
@@ -10,10 +10,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/crack_assistant_xposed_framework/website/"
+      "prefix": "https://book.crifan.org/books/crack_assistant_xposed_framework/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/crack_assistant_xposed_framework/pdf/crack_assistant_xposed_framework.pdf"
+      "url": "https://book.crifan.org/books/crack_assistant_xposed_framework/pdf/crack_assistant_xposed_framework.pdf"
     }
   }
 }
