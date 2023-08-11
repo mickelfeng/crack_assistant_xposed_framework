@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.0",
-  "lastUpdate": "20230810",
+  "latestVersion": "v1.1.0",
+  "lastUpdate": "20230811",
   "gitRepoName": "crack_assistant_xposed_framework",
   "bookName": "强大的安卓破解辅助工具：XPosed框架",
   "bookDescription": "介绍用于安卓破解的辅助工具：Xposed框架；先是Xposed框架简介，包括类XPosed框架的VirtualXposed、太极；以及具体如何安装Xposed和EdXposed；如何具体使用XPosed；以及常见的XPosed的插件模块；和如何开发XPosed插件，包括先是用AS新建一个安卓普通app项目，再去改动增加Xposed的配置，写Xposed插件的hook代码，编译和安装Xposed插件即普通安卓apk到安卓手机，然后确认Xposed插件是否安装成功和被正常识别，然后测试Xposed插件是否生效是否能输出log日志；最后整理心得；"

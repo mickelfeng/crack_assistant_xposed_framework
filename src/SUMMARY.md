@@ -15,6 +15,7 @@
   * [新增Xposed配置](dev_xposed_plugin/add_xposed_config.md)
   * [编译安装Xposed插件apk](dev_xposed_plugin/build_install_apk.md)
   * [确认插件已安装和能生效](dev_xposed_plugin/check_installed_work.md)
+  * [Xposed插件demo项目](dev_xposed_plugin/demo_project.md)
 * [Xposed心得](xposed_summary/README.md)
 * [附录](appendix/README.md)
   * [参考资料](appendix/reference.md)
