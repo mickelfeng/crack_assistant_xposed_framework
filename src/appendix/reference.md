@@ -1,5 +1,7 @@
 # 参考资料
 
+* 【未解决】编写EdXposed插件去hook调试Android应用YouTube
+* 【未解决】给安卓手机Google Pixel3去安装Xposed
 * 【已解决】参考XPosed官网教程创建最基本的XPosed插件的安卓apk
 * 【已解决】AS调试安卓Xposed插件app
 * 【已解决】安卓逆向编写Xposed插件：创建安卓app项目
@@ -15,10 +17,30 @@
 * 【已解决】Android Studio调试没有Activity的XPosed插件时报错：Error running app Default Activity not found
 * 【已解决】Xposed插件加载报错：dalvikvm had used a different IXposedHookLoadPackage during pre-verification
 * 【已解决】XPosed插件开发期间xposedminversion应该改成什么值
+* 【已解决】Android 11中Magisk中安装EdXposed插件
+* 【已解决】在Android 11中安装EdXposed框架
+* 【已解决】Android 11中Magisk中安装Riru插件
+* 【已解决】Android 11中EdXposed Manager的下载安装和基本使用
+* 【已解决】给root后的Android 11的Google Pixel中安装XPosed框架
+* 【记录】google pixel3中查看已安装过的Magisk和EdXposed
+* 【已解决】Android 11的Magisk中安装EdXposed 0.5.2.2结果失败：请先从Magisk Manager中安装Riru Installation failed
+* 【已解决】Android13的Pixel5安装LSPosed
+* 【已解决】Magisk中安装LSPosed后去打开LSPosed的app
+* 【记录】LSPosed的app的界面和功能
+* 【记录】给Magisk安装MagiskHide替代方案：Shamiko模块
+* 【记录】LSPosed的详细日志内容
+* 【已解决】Magisk中的：Zygisk
+* 【记录】Xposed框架继承者：EdXposed、LSPosed、Tai Chi
 * 
+* [【模块框架】LSPatch - 免Root模块框架小白向安装使用指南 - 知乎 (zhihu.com) ](https://zhuanlan.zhihu.com/p/530887552)
+* [Android Lspatch(模块工具) 0.5.1(385) - 果核剥壳 (ghxi.com)](https://www.ghxi.com/lspatch.html)
 * [安卓应用的安全和破解](https://book.crifan.org/books/android_app_security_crack/website/)
 * [好用的安卓模拟器：夜神Nox](https://book.crifan.org/books/good_android_emulator_nox/website/)
-* 
+* [Releases · ElderDrivers/EdXposedManager (github.com)](https://github.com/ElderDrivers/EdXposedManager/releases)
+* [Releases · RikkaApps/Riru (github.com)](https://github.com/RikkaApps/Riru/releases)
+* [Releases · ElderDrivers/EdXposed (github.com)](https://github.com/ElderDrivers/EdXposed/releases)
+* [[BUG] Error detect riru · Issue #873 · ElderDrivers/EdXposed (github.com)](https://github.com/ElderDrivers/EdXposed/issues/873)
+* [[BUG] Error detect riru · Issue #873 · ElderDrivers/EdXposed (github.com)](https://github.com/ElderDrivers/EdXposed/issues/873#issuecomment-884770326)
 * [\[原创\]Xposed 安装记录-『Android安全』-看雪安全论坛](https://bbs.pediy.com/thread-224465.htm)
 * [Android APK脱壳--腾讯乐固、360加固一键脱壳 | 辉天神龙](https://xucanhui.com/2018/09/27/android-apk-shelling/)
 * [Difference between Xposed and VirtualXposed · android-hacker/VirtualXposed Wiki](https://github.com/android-hacker/VirtualXposed/wiki/Difference-between-Xposed-and-VirtualXposed)
@@ -29,4 +51,6 @@
 * [Xposed框架中文站 - 超多Xposed框架模块介绍与下载](https://xposed.appkg.com)
 * [【Android】Xposed 框架解析 - 简书](https://www.jianshu.com/p/2b8343c774df)
 * [IXposedHookLoadPackage | Xposed Framework API](https://api.xposed.info/reference/de/robv/android/xposed/IXposedHookLoadPackage.html)
+* [Pixel 5 Root, 安装Xposed框架, 解锁5G教程_android_Shadestart-开源项目管理 (csdn.net)](https://devpress.csdn.net/gitcode/640a9064986c660f3cf9209b.html)
+* [Zygisk: What is it? How to Download and Use it?](https://teamandroid.com/zygisk-magisk/)
 * 

@@ -4,4 +4,4 @@
 
 * `Xposed`的`Xposed Installer`
 * `EdXposed`的`EdXposed Manager`
-* `LSPosed`
+* `LSPosed`（自带Manager的app）
